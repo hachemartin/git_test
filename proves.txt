@@ -1,3 +1,13 @@
 Hola Mundo (primer mensaje en archivo) 20/09/2018 9:58
+<<<<<<< HEAD
+Segunda modificación
+Segunda pero del master
+Blablabla
+
+Prueba ahora de master
+=======
 
 Modificación 10:23
+>>>>>>> 6ce55ec3ac198d52912f4ade4cd185b536081250
+
+Nueva y última
