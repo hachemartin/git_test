@@ -13,3 +13,6 @@ https://drive.google.com/open?id=1F-fgDvxda91dCXTXBBS8FjwE1s5SNrCi
 
 #BASE DE DATOS AMAZON
 https://drive.google.com/open?id=1WJEdQV3l8jrAclAShTKl32ZVnc6Ue6jI
+
+#EJERCICIO USFLIGHTS
+airlineflights.sql
