@@ -7,7 +7,7 @@
 <br>
 </h1>
 
-> **Nota**: este repositorio tiene como objetivo la práctica de Github y la publicación de todo el material recopilado a lo largo del programa de alta capacitación [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy).
+> **Nota**: este repositorio es una guía personal redactada por [David Hache Martín](http://www.hachemartin.com) mientras cursaba el [bootcamp](https://en.wikipedia.org/wiki/Coding_bootcamp) intensivo de programación [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy) de [Barcelona Activa](http://www.barcelonactiva.cat). Desde metodologías ágiles, herramientas, recursos y tips que todo Front End Developer pueda necesitar. Siéntete libre para compartirlo, hacer fork y modificarlo a tu gusto.
 
 <div align="center"> 
   
