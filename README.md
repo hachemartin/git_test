@@ -1,10 +1,8 @@
-﻿<h1 align="center">
-<br>
+<h1 align="center">
   <img src="https://cibernarium.barcelonactiva.cat/documents/10180/693138/IT+logo.png/1c84715b-b403-4f41-9b5d-8691f99dec40?t=1520933248611" alt="IT Academy" width=200">
   <br>
     <br> Programa de alta especialización TIC
   <br>
-<br>
 </h1>
 
 > **Nota**: este repositorio es una guía personal redactada por [David Hache Martín](http://www.hachemartin.com) mientras cursaba el [bootcamp](https://en.wikipedia.org/wiki/Coding_bootcamp) intensivo de programación [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy) de [Barcelona Activa](http://www.barcelonactiva.cat). Desde metodologías ágiles, herramientas, recursos y tips que todo Front End Developer pueda necesitar. Siéntete libre para compartirlo, hacer fork y modificarlo a tu gusto.
@@ -13,6 +11,7 @@
   
  [![prs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
  [![it academy](https://img.shields.io/badge/IT%20Academy-2018-d50283.svg)](https://cibernarium.barcelonactiva.cat/it-academy)
+ [![barcelona activa](https://img.shields.io/badge/Barcelona-Activa-0084B4.svg)](http://www.barcelonactiva.cat)
  [![front end developer](https://img.shields.io/badge/developer-front--end-blue.svg)](https://en.wikipedia.org/wiki/Front-end_web_development)
  [![code with hearth by NHN Entertainment](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Hache%20Martin-ff1414.svg)](https://github.com/hachemartin)
  
@@ -24,7 +23,9 @@ Skills
   - [MySQL Workbench](https://dev.mysql.com/doc/workbench/en/)
 
 ## Temario
-  1. [Metodologías](#metodologias)
+  1. [Metodologías ágiles](#metodologias)
+    1.1 Slack
+    - Mastermind group
   1. [GITHUB](#github)
   1. [MySQL](#mysql)
   1. [Programación orientada a objetos](#poo)
