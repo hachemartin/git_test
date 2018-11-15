@@ -24,6 +24,7 @@ Skills
   - [MySQL Workbench](https://dev.mysql.com/doc/workbench/en/)
 
 ## Temario
+  1. [Metodologías](#metodologias)
   1. [GITHUB](#github)
   1. [MySQL](#mysql)
   1. [Programación orientada a objetos](#poo)
