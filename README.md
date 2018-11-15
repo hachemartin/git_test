@@ -6,20 +6,19 @@
   <br>
 <br>
 </h1>
+
 > **Nota**: este repositorio tiene como objetivo la práctica de Github y la publicación de todo el material recopilado a lo largo del programa de alta capacitación [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy).
 
-<p align="center">
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
-  </a>
-  <a href="https://cibernarium.barcelonactiva.cat/it-academy">
-    <img src="https://img.shields.io/badge/IT%20Academy-2018-d50283.svg" alt="IT Academy">
-  </a>
-    <a href="https://en.wikipedia.org/wiki/Front-end_web_development">
-    <img src="https://img.shields.io/badge/developer-front--end-blue.svg" alt="IT Academy">
-  </a>
-</p>
-
+<div align="center"> 
+  
+ [![prs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+ [![it academy](https://img.shields.io/badge/IT%20Academy-2018-d50283.svg)](https://cibernarium.barcelonactiva.cat/it-academy)
+ [![front end developer](https://img.shields.io/badge/developer-front--end-blue.svg)](https://en.wikipedia.org/wiki/Front-end_web_development)
+ [![code with hearth by NHN Entertainment](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Hache%20Martin-ff1414.svg)](https://github.com/hachemartin)
+ 
+ </div>
+ 
+ 
 Skills
   - [MySQL](https://dev.mysql.com/doc/refman/8.0/en/)
   - [MySQL Workbench](https://dev.mysql.com/doc/workbench/en/)
