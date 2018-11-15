@@ -17,25 +17,36 @@
  [![code with hearth by NHN Entertainment](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Hache%20Martin-ff1414.svg)](https://github.com/hachemartin)
  
  </div>
- 
- 
-Skills
-  - [MySQL](https://dev.mysql.com/doc/refman/8.0/en/)
-  - [MySQL Workbench](https://dev.mysql.com/doc/workbench/en/)
+
 
 ## Tabla de Contenidos
-[**Metodologías ágiles**](#metodologias)
-    * [**1 - Slack**](#metodologias--slack)
-    * [**2 - Mastermind group**](#metodologias--mastermind)
-    * [**3 - Scrum**](#metodologias--scrum)
-  1. [GITHUB](#github)
-  1. [MySQL](#mysql)
-  1. [Programación orientada a objetos](#poo)
-  1. [HTML](#html)
-  1. [CSS](#css)
-  1. [Preprocesaores](#preprocesadores)
-  1. [Javascript](#js)
 
+[**Metodologías**](#metodologias)
+   * [**1 - Slack**](#metodologias--slack)
+   * [**2 - GitHub**](#github)
+   * [**3 - Mastermind group**](#metodologias--mastermind)
+   * [**4 - Daily stand up**](#metodologias--daily)
+   * [**5 - Scrum**](#metodologias--scrum)
+    
+[**Temario previo**](#temario0)
+  * [**1 - Virtual box**](#mysql)
+  * [**2 - Bases de datos relacionales**](#mysql)
+  * [**2 - MySQL Workbench**](#mysql)
+ 
+ [**IDE: Integrated development environment**](#temario0)
+  * [**1 - Sublime Text**](#mysql)
+  * [**2 - Visual Studio Code**](#mysql)
+ 
+[**Temario Front End Developer**](#temario1)
+  * [**1 - Programación orientada a objetos**](#poo)
+  * [**2 - Sublime Text**](#html)
+  * [**3 - HTML**](#html)
+  * [**4 - CSS**](#css)
+  * [**5 - Bootstrap**](#bootstrap)
+  * [**6 - Sass**](#sass)
+  * [**7 - Javascript**](#js)
+
+[**Temario Front End Developer**](#temario1)
 
 
 # git_test
