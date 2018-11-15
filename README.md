@@ -3,6 +3,7 @@
   <br>
     <br> Programa de alta especialización TIC
   <br>
+    <br>
 </h1>
 
 > **Nota**: este repositorio es una guía personal redactada por [David Hache Martín](http://www.hachemartin.com) mientras cursaba el [bootcamp](https://en.wikipedia.org/wiki/Coding_bootcamp) intensivo de programación [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy) de [Barcelona Activa](http://www.barcelonactiva.cat). Desde metodologías ágiles, herramientas, recursos y tips que todo Front End Developer pueda necesitar. Siéntete libre para compartirlo, hacer fork y modificarlo a tu gusto.
@@ -22,10 +23,11 @@ Skills
   - [MySQL](https://dev.mysql.com/doc/refman/8.0/en/)
   - [MySQL Workbench](https://dev.mysql.com/doc/workbench/en/)
 
-## Temario
-  1. [Metodologías ágiles](#metodologias)
-    1.1 Slack
-    - Mastermind group
+## Tabla de Contenidos
+[**Metodologías ágiles**](#metodologias)
+    * [**1 - Slack**](#metodologias--slack)
+    * [**2 - Mastermind group**](#metodologias--mastermind)
+    * [**3 - Scrum**](#metodologias--scrum)
   1. [GITHUB](#github)
   1. [MySQL](#mysql)
   1. [Programación orientada a objetos](#poo)
@@ -57,6 +59,26 @@ https://drive.google.com/open?id=1WJEdQV3l8jrAclAShTKl32ZVnc6Ue6jI
 
 #EJERCICIO USFLIGHTS
 airlineflights.sql
+
+
+## METODOLOGÍAS ÁGILES
+
+<a name="metodologias--slack"></a><a name="1.1"></a>
+  - [1.1](#metodologias--slack) **Slack**: When you access a primitive type you work directly on its value.
+
+   -Etimología
+   - `string`
+    - `number`
+    
+<a name="metodologias--mastermind"></a><a name="1.2"></a>
+  - [1.2](#metodologias--mastermind)  **Mastermind group**: When you access a complex type you work on a reference to its value.
+
+    - `object`
+    - `array`
+    
+    
+    **[⬆ back to top](#temario)**
+
 
 
 ## GITHUB
