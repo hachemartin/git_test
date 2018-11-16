@@ -16,7 +16,7 @@
  [![front end developer](https://img.shields.io/badge/developer-front--end-blue.svg)](https://en.wikipedia.org/wiki/Front-end_web_development)
  [![code with hearth by NHN Entertainment](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Hache%20Martin-ff1414.svg)](https://github.com/hachemartin)
  
- </div>
+</div>
 
 
 ## Tabla de Contenidos
@@ -46,8 +46,9 @@
   * [**6 - Sass**](#sass)
   * [**7 - Javascript**](#js)
 
-[**Temario Front End Developer**](#temario1)
-
+[**Conferencias y charlas**](#temario2)
+  * [**Full stack**](#css)
+  - [**4 - CSS**](#css)
 
 # git_test
 Primer projecte GIT
