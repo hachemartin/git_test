@@ -16,6 +16,7 @@
  [![front end developer](https://img.shields.io/badge/developer-front--end-blue.svg)](https://en.wikipedia.org/wiki/Front-end_web_development)
  [![code with hearth by NHN Entertainment](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Hache%20Martin-ff1414.svg)](https://github.com/hachemartin)
  
+ 
 </div>
 
 [**Organización del programa**](#organizacion0)
@@ -33,14 +34,17 @@
    * [**4 - Daily stand up**](#metodologias--daily)
    * [**5 - Scrum**](#metodologias--scrum)
     
+    
 [**Temario previo**](#temario0)
   * [**1 - Virtual box**](#mysql)
   * [**2 - Bases de datos relacionales**](#mysql)
   * [**2 - MySQL Workbench**](#mysql)
  
+ 
  [**IDE: Integrated development environment**](#temario0)
   * [**1 - Sublime Text**](#mysql)
   * [**2 - Visual Studio Code**](#mysql)
+ 
  
 [**Temario Front End Developer**](#temario1)
   * [**1 - Programación orientada a objetos**](#poo)
@@ -51,11 +55,13 @@
   * [**6 - Sass**](#sass)
   * [**7 - Javascript**](#js)
 
+
 [**Conferencias y charlas**](#confe0)
   * [**Team building**](#confe1) - Construcción de equipo
   * [**Full stack**](#confe2) - Full stack developer
-  * [**Irina Nanu**](#confe3) - UX/UI designer
-  * [**Marketplace**](#confe4) - Encuentros entre empresa y desarrollador
+  * [**Aleum Yang**](#confe3) - Women N Talent
+  * [**Irina Nanu**](#confe4) - UX/UI designer
+  * [**Marketplace**](#confe5) - Encuentros entre empresa y desarrollador
 
 
 
