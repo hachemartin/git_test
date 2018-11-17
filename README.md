@@ -64,6 +64,14 @@
   * [**Marketplace**](#confe5) - Encuentros entre empresa y desarrollador
 
 
+[**Ejercicios**](exercises/)
+  * [**1 - UML Diagram**](exercises/01-uml-diagram/)
+  * [**2 - USFlights**](exercises/02-usflights/)
+  * [**3 - Ecommerce**](exercises/03-ecommerce/)
+  * [**4 - xxx**](#exercises4)
+  * [**5 - xxx**](#exercises5)
+
+
 
 # git_test
 Primer projecte GIT
