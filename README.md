@@ -6,7 +6,7 @@
     <br>
 </h1>
 
-> **Nota**: este repositorio es una guía personal redactada por [David Hache Martín](http://www.hachemartin.com) mientras cursaba el [bootcamp](https://en.wikipedia.org/wiki/Coding_bootcamp) intensivo de programación [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy) de [Barcelona Activa](http://www.barcelonactiva.cat). Desde metodologías ágiles, herramientas, recursos y tips que todo Front End Developer pueda necesitar. Siéntete libre para compartirlo, hacer fork y modificarlo a tu gusto.
+> **Nota**: este repositorio es una guía personal redactada por [David Hache Martín](http://www.hachemartin.com) mientras cursaba el [bootcamp](https://en.wikipedia.org/wiki/Coding_bootcamp) intensivo de programación [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy) de [Barcelona Activa](http://www.barcelonactiva.cat). Desde metodologías ágiles, herramientas, recursos y tips que todo Front End Developer pueda necesitar. Siéntete libre para compartirlo, hacer Fork y modificarlo a tu gusto.
 
 <div align="center"> 
   
@@ -17,6 +17,11 @@
  [![code with hearth by NHN Entertainment](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Hache%20Martin-ff1414.svg)](https://github.com/hachemartin)
  
 </div>
+
+[**Organización del programa**](#organizacion0)
+   * [**1 - Técnicos**](#organizacion1)
+   * [**2 - Mentores**](#organizacion2)
+   * [**3 - Prensa**](#organizacion3)
 
 
 ## Tabla de Contenidos
@@ -46,9 +51,13 @@
   * [**6 - Sass**](#sass)
   * [**7 - Javascript**](#js)
 
-[**Conferencias y charlas**](#temario2)
-  * [**Full stack**](#css)
-  - [**4 - CSS**](#css)
+[**Conferencias y charlas**](#confe0)
+  * [**Team building**](#confe1) - Construcción de equipo
+  * [**Full stack**](#confe2) - Full stack developer
+  * [**Irina Nanu**](#confe3) - UX/UI designer
+  * [**Marketplace**](#confe4) - Encuentros entre empresa y desarrollador
+
+
 
 # git_test
 Primer projecte GIT
