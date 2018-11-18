@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="img/itacademylogo.png" alt="IT Academy" width=200">
+  <img src="https://github.com/hachemartin/it-academy-hachemartin/blob/master/img/itacademylogo.png" alt="IT Academy" width=200">
   <br>
     <br> Programa de alta especialización TIC
   <br>
@@ -27,11 +27,11 @@
 
 ## Tabla de Contenidos
 
-[**Metodologías**](#metodologias)
+[**Metodologías**](#metodologías)
    * [**1 - Slack**](#methodologies--slack)
    * [**2 - GitHub**](#methodologies--github)
-   * [**3 - Mastermind group**](#methodologies--mastermind)
-   * [**4 - Daily stand up**](#4-daily-stand-up)
+   * [**3 - Mastermind group**](#3---mastermind-group)
+   * [**4 - Daily stand up**](#4---daily-stand-up)
    * [**5 - Scrum**](#methodologies--scrum)
 <br> 
     
@@ -98,15 +98,15 @@
 <a name="#methodologies--mastermind"></a>
 ### **4 - Daily stand up**
 
-  Una de las rutinas que se incorporan al grupo es un parte diario de lo que estamos haciendo mediante una [Dayly Stand Up](https://medium.com/the-mission/how-to-start-a-mastermind-and-why-its-valuable-to-do-so-862cc2e8b4d2). Se hará a las 9:30am, una reunión de pie de una duración menor a **15 minutos** cronometrados. Para dejar un acta de la Daily Stand Up, que podamos consultar, se puede hacer un borrador en el Slack.
+  Una de las rutinas que se incorporan al grupo es un parte diario de lo que estamos haciendo mediante una [**Dayly Stand Up**](https://medium.com/the-mission/how-to-start-a-mastermind-and-why-its-valuable-to-do-so-862cc2e8b4d2). Se hará a las 9:30am, una reunión de pie de una duración menor a **15 minutos** cronometrados. Para dejar un acta de la Daily Stand Up, que podamos consultar, se puede hacer un borrador en el Slack.
 
    - Se ha de contestar a tres sencillas preguntas:
 
-    1. ¿Qué hiciste ayer?
-    2. ¿Qué harás hoy?
-    3. ¿Qué obstáculos están impidiendo tu progreso?
+      ``1. ¿Qué hiciste ayer?
+        2. ¿Qué harás hoy?
+        3. ¿Qué obstáculos están impidiendo tu progreso?``
 
-  <img src="img/dailystandup.png" alt="daily stand up">
+  <img src="https://github.com/hachemartin/it-academy-hachemartin/blob/master/img/dailystandup.png" alt="daily stand up">
 
 <br>
 <br>
