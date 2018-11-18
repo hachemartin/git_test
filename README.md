@@ -6,12 +6,12 @@
     <br>
 </h1>
 
-> **Nota**: este repositorio es una guía personal redactada por [David Hache Martín](http://www.hachemartin.com) mientras cursaba el [bootcamp](https://en.wikipedia.org/wiki/Coding_bootcamp) intensivo de programación [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy) de [Barcelona Activa](http://www.barcelonactiva.cat). Desde metodologías ágiles, herramientas, recursos y tips que todo Front End Developer pueda necesitar. Siéntete libre para compartirlo, hacer Fork y modificarlo a tu gusto.
+> **Nota**: este repositorio es una guía personal redactada por [David Hache Martín](http://www.hachemartin.com) mientras cursa el [bootcamp](https://en.wikipedia.org/wiki/Coding_bootcamp) intensivo de programación [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy) de [Barcelona Activa](http://www.barcelonactiva.cat). Desde metodologías ágiles, herramientas, recursos y tips que todo Front End Developer pueda necesitar. Siéntete libre para compartirlo, hacer Fork y modificarlo a tu gusto.
 
 <div align="center"> 
   
  [![prs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
- [![it academy](https://img.shields.io/badge/IT%20Academy-2018-d50283.svg)](https://cibernarium.barcelonactiva.cat/it-academy)
+ [![it academy](https://img.shields.io/badge/IT%20Academy-2018--2019-d50283.svg)](https://cibernarium.barcelonactiva.cat/it-academy)
  [![barcelona activa](https://img.shields.io/badge/Barcelona-Activa-0084B4.svg)](http://www.barcelonactiva.cat)
  [![front end developer](https://img.shields.io/badge/developer-front--end-blue.svg)](https://en.wikipedia.org/wiki/Front-end_web_development)
  [![code with hearth by NHN Entertainment](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Hache%20Martin-ff1414.svg)](https://github.com/hachemartin)
@@ -67,9 +67,9 @@
 [**Ejercicios**](exercises/)
   * [**1 - UML Diagram**](exercises/01-uml-diagram/)
   * [**2 - USFlights**](exercises/02-usflights/)
-  * [**3 - Ecommerce**](exercises/03-ecommerce/)
-  * [**4 - Javascript nombre**](exercises/04-js-nombre/)
-  * [**5 - xxx**](#exercises5)
+  * [**3 - Ecommerce**](exercises/03-ecommerce/) 
+  * [**4 - Javascript name**](exercises/04-js-name/)
+  * [**5 - Javascript rocket**](exercises/05-js-rocket/)
 
 <br>
 <br>
@@ -80,11 +80,11 @@
 <a name="#methodologies--mastermind"></a>
 ### **3 - Mastermind group**
 
-  El autoaprendizaje requiere de fuerza de voluntad y motivación. En ocasiones pueden existir bloqueos y ganas de no poder seguir adelante, o simplemente procrastinación por no tener a una figura observadora. No hay supervisor, no hay profesor, no hay deadlines, todo lo haces y lo organizas tú solo.
+  El autoaprendizaje requiere fuerza de voluntad y motivación. En ocasiones pueden existir bloqueo, ganas tirar la toalla, o simplemente desmotivación. La soledad hace que sea difícil crear comunidad, equipo.
 
-  Con el objetivo de avanzar, hemos creado un [Mastermind Group](). No es un grupo de estudio, se trata de marcarnos objetivos, visualizar la forma de conseguirlos, motivarnos y compartirlo teniendo en cuenta que todos traemos un bagaje diferente y podemos enriquecernos. Todo ello bajo el paraguas de las metodologías ágiles.
+  Con el objetivo de avanzar y superar obstáculos, hemos creado un [Mastermind Group](https://medium.com/the-mission/how-to-start-a-mastermind-and-why-its-valuable-to-do-so-862cc2e8b4d2). No es un grupo de estudio, se trata de identificar objetivos, visualizar la forma de conseguirlos, motivarnos y compartirlo teniendo en cuenta que todos traemos un bagaje diferente y podemos enriquecernos. Todo ello bajo el paraguas de las metodologías ágiles.
 
-  Pretendemos fomentar el trabajo en equipo, compartir problemas que puedan ayudar a otros, compromiso de grupo y crear entre nosotros competencia sana. Pertenecer a un grupo empodera, da la posibilidad de comparar y crea competencia sana buscando la excelencia.
+  Pretendemos fomentar el trabajo en equipo, compartir problemas que puedan ayudar a otros, compromiso de grupo y crear entre nosotros competencia sana. Pertenecer a un grupo empodera, da la posibilidad de comparar y buscar la excelencia.
 
   Miembros:
   - [Lea Vaiana](http://github.com/LeaVaiana)
@@ -101,7 +101,7 @@
 <a name="#methodologies--mastermind"></a>
 ### **4 - Daily stand up**
 
-  Una de las rutinas que se incorporan al grupo es un parte diario de lo que estamos haciendo mediante una [**Dayly Stand Up**](https://medium.com/the-mission/how-to-start-a-mastermind-and-why-its-valuable-to-do-so-862cc2e8b4d2). Se hará a las 9:30am, una reunión de pie de una duración menor a **15 minutos** cronometrados. Para dejar un acta de la Daily Stand Up, que podamos consultar, se puede hacer un borrador en el Slack.
+  Una de las rutinas que se incorporan al grupo es un parte diario de lo que estamos haciendo mediante una [**Dayly Stand Up**](https://hackernoon.com/the-perfect-daily-standup-8e58c3411be1). Se hará a las 9:30am, una reunión de pie de una duración menor a **15 minutos** cronometrados. Para dejar un acta de la Daily Stand Up, que podamos consultar, se puede hacer un borrador en el Slack.
 
   - Se ha de contestar a tres sencillas preguntas:
   1. ¿Qué hiciste ayer?
@@ -118,47 +118,3 @@
 
 <br>
 
-<a name="metodologias--mastermind"></a><a name="1.2"></a>
-  - [1.2](#metodologias--mastermind)  **Mastermind group**: When you access a complex type you work on a reference to its value.
-
-    - `object`
-    - `array`
-    
-    
-    **[⬆ back to top](#temario)**
-
-
-
-## GITHUB
-
-<a name="github--first"></a><a name="1.1"></a>
-  - [1.1](#github--first) **Primer paso**: When you access a primitive type you work directly on its value.
-
-    - `string`
-    - `number`
-    
-<a name="github--segundo"></a><a name="1.2"></a>
-  - [1.2](#github--segundo)  **Segundo paso**: When you access a complex type you work on a reference to its value.
-
-    - `object`
-    - `array`
-    
-    
-    **[⬆ back to top](#temario)**
-
-## MYSQL
-
-<a name="mysql--first"></a><a name="1.1"></a>
-  - [1.1](#mysql--first) **Primer paso**: When you access a primitive type you work directly on its value.
-
-    - `string`
-    - `number`
-    
-<a name="mysql--segundo"></a><a name="1.2"></a>
-  - [1.2](#mysql--segundo)  **Segundo paso**: When you access a complex type you work on a reference to its value.
-
-    - `object`
-    - `array`
-    
-    
-    **[⬆ back to top](#temario)**
