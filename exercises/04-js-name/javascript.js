@@ -1,3 +1,5 @@
+//variables
+
 var myName;
 myName = ["D", "A", "V", 1, "D"];
 
