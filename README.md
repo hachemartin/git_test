@@ -94,7 +94,7 @@
 
 <br>
 
-    **[⬆ back to top](#tabla-de-contenidos)**
+  **[⬆ back to top](#tabla-de-contenidos)**
 
 <br>
 
@@ -104,7 +104,6 @@
   Una de las rutinas que se incorporan al grupo es un parte diario de lo que estamos haciendo mediante una [**Dayly Stand Up**](https://medium.com/the-mission/how-to-start-a-mastermind-and-why-its-valuable-to-do-so-862cc2e8b4d2). Se hará a las 9:30am, una reunión de pie de una duración menor a **15 minutos** cronometrados. Para dejar un acta de la Daily Stand Up, que podamos consultar, se puede hacer un borrador en el Slack.
 
   - Se ha de contestar a tres sencillas preguntas:
-
   1. ¿Qué hiciste ayer?
   2. ¿Qué harás hoy?
   3. ¿Qué obstáculos están impidiendo tu progreso?
@@ -115,7 +114,7 @@
 
 <br>
 
-    **[⬆ back to top](#tabla-de-contenidos)**
+  **[⬆ back to top](#tabla-de-contenidos)**
 
 <br>
 
