@@ -27,11 +27,11 @@
 
 ## Tabla de Contenidos
 
-[**Metodologías**](#methodologies)
+[**Metodologías**](#metodologias)
    * [**1 - Slack**](#methodologies--slack)
    * [**2 - GitHub**](#methodologies--github)
    * [**3 - Mastermind group**](#methodologies--mastermind)
-   * [**4 - Daily stand up**](#methodologies--dailystandup)
+   * [**4 - Daily stand up**](#4-daily-stand-up)
    * [**5 - Scrum**](#methodologies--scrum)
 <br> 
     
@@ -78,7 +78,7 @@
 ## METODOLOGÍAS
 
 <a name="#methodologies--mastermind"></a>
-  **3 - Mastermind group**
+### **3 - Mastermind group**
 
   El autoaprendizaje requiere de fuerza de voluntad y motivación. En ocasiones pueden existir bloqueos y ganas de no poder seguir adelante, o simplemente procrastinación por no tener a una figura observadora. No hay supervisor, no hay profesor, no hay deadlines, todo lo haces y lo organizas tú solo.
 
@@ -96,18 +96,20 @@
 <br>
 
 <a name="#methodologies--mastermind"></a>
-  **4 - Daily stand up**
+### **4 - Daily stand up**
 
   Una de las rutinas que se incorporan al grupo es un parte diario de lo que estamos haciendo mediante una [Dayly Stand Up](https://medium.com/the-mission/how-to-start-a-mastermind-and-why-its-valuable-to-do-so-862cc2e8b4d2). Se hará a las 9:30am, una reunión de pie de una duración menor a **15 minutos** cronometrados. Para dejar un acta de la Daily Stand Up, que podamos consultar, se puede hacer un borrador en el Slack.
 
    - Se ha de contestar a tres sencillas preguntas:
+
     1. ¿Qué hiciste ayer?
     2. ¿Qué harás hoy?
     3. ¿Qué obstáculos están impidiendo tu progreso?
 
   <img src="img/dailystandup.png" alt="daily stand up">
 
-
+<br>
+<br>
 
 <a name="metodologias--mastermind"></a><a name="1.2"></a>
   - [1.2](#metodologias--mastermind)  **Mastermind group**: When you access a complex type you work on a reference to its value.
