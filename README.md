@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/hachemartin/it-academy-hachemartin/blob/master/img/itacademylogo.png" alt="IT Academy" width=200">
+  <img src="https://github.com/hachemartin/it-academy-hachemartin/blob/master/img/itacademylogo.png" alt="IT Academy logo" width=200">
   <br>
     <br> Programa de alta especialización TIC
   <br>
@@ -68,7 +68,7 @@
   * [**1 - UML Diagram**](exercises/01-uml-diagram/)
   * [**2 - USFlights**](exercises/02-usflights/)
   * [**3 - Ecommerce**](exercises/03-ecommerce/)
-  * [**4 - xxx**](#exercises4)
+  * [**4 - Javascript nombre**](exercises/04-js-nombre/)
   * [**5 - xxx**](#exercises5)
 
 <br>
@@ -82,17 +82,20 @@
 
   El autoaprendizaje requiere de fuerza de voluntad y motivación. En ocasiones pueden existir bloqueos y ganas de no poder seguir adelante, o simplemente procrastinación por no tener a una figura observadora. No hay supervisor, no hay profesor, no hay deadlines, todo lo haces y lo organizas tú solo.
 
-  Con el objetivo de avanzar, hemos creado un [mastermind group](). No es un grupo de estudio, se trata de marcarnos objetivos, visualizar la forma de conseguirlos, motivarnos y compartirlo teniendo en cuenta que todos traemos un bagaje diferente y podemos enriquecernos. Todo ello bajo el paraguas de las metodologías ágiles.
+  Con el objetivo de avanzar, hemos creado un [Mastermind Group](). No es un grupo de estudio, se trata de marcarnos objetivos, visualizar la forma de conseguirlos, motivarnos y compartirlo teniendo en cuenta que todos traemos un bagaje diferente y podemos enriquecernos. Todo ello bajo el paraguas de las metodologías ágiles.
 
   Pretendemos fomentar el trabajo en equipo, compartir problemas que puedan ayudar a otros, compromiso de grupo y crear entre nosotros competencia sana. Pertenecer a un grupo empodera, da la posibilidad de comparar y crea competencia sana buscando la excelencia.
 
   Miembros:
   - [Lea Vaiana](http://github.com/LeaVaiana)
-  - [Germán W. T. ](http://github.com/germanwt)
+  - [Germán W. T.](http://github.com/germanwt)
   - [David Hache Martín](http://github.com/hachemartin)
     
 
 <br>
+
+    **[⬆ back to top](#tabla-de-contenidos)**
+
 <br>
 
 <a name="#methodologies--mastermind"></a>
@@ -100,15 +103,20 @@
 
   Una de las rutinas que se incorporan al grupo es un parte diario de lo que estamos haciendo mediante una [**Dayly Stand Up**](https://medium.com/the-mission/how-to-start-a-mastermind-and-why-its-valuable-to-do-so-862cc2e8b4d2). Se hará a las 9:30am, una reunión de pie de una duración menor a **15 minutos** cronometrados. Para dejar un acta de la Daily Stand Up, que podamos consultar, se puede hacer un borrador en el Slack.
 
-   - Se ha de contestar a tres sencillas preguntas:
+  - Se ha de contestar a tres sencillas preguntas:
 
-      ``1. ¿Qué hiciste ayer?
-        2. ¿Qué harás hoy?
-        3. ¿Qué obstáculos están impidiendo tu progreso?``
+  1. ¿Qué hiciste ayer?
+  2. ¿Qué harás hoy?
+  3. ¿Qué obstáculos están impidiendo tu progreso?
+
+<br>
 
   <img src="https://github.com/hachemartin/it-academy-hachemartin/blob/master/img/dailystandup.png" alt="daily stand up">
 
 <br>
+
+    **[⬆ back to top](#tabla-de-contenidos)**
+
 <br>
 
 <a name="metodologias--mastermind"></a><a name="1.2"></a>
