@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://cibernarium.barcelonactiva.cat/documents/10180/693138/IT+logo.png/1c84715b-b403-4f41-9b5d-8691f99dec40?t=1520933248611" alt="IT Academy" width=200">
+  <img src="img/itacademylogo.png" alt="IT Academy" width=200">
   <br>
     <br> Programa de alta especialización TIC
   <br>
@@ -70,9 +70,9 @@
   * [**3 - Ecommerce**](exercises/03-ecommerce/)
   * [**4 - xxx**](#exercises4)
   * [**5 - xxx**](#exercises5)
-<br>
-<br>
 
+<br>
+<br>
 <a name="#methodologies"></a>
 ## METODOLOGÍAS
 
@@ -91,7 +91,8 @@
   - [David Hache Martín](http://github.com/hachemartin)
     
 
-
+<br>
+<br>
 <a name="#methodologies--mastermind"></a>
   4 - **Daily stand up**
 
@@ -102,7 +103,7 @@
     2. ¿Qué harás hoy?
     3. ¿Qué obstáculos están impidiendo tu progreso?
 
-    <img src="img/dailystandup.jpg">
+  <img src="img/dailystandup.jpg" alt="daily stand up">
 
 
 
