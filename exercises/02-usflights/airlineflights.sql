@@ -58,6 +58,7 @@ order by Flights.Cancelled asc;
 
 select TailNum, sum(Distance) as Total
 from usairlineflights.Flights
+where not (TailNum = "NA")
 group by TailNum
 order by total desc
 limit 10;
