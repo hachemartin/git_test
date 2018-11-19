@@ -30,9 +30,18 @@ order by Origin, Year, Month;
 select City, Year, Month, 
 	avg(ArrDelay) as AverageArrivalDelay 
 from usairlineflights.Flights 
-inner join usairlineflights.airports on IATA = Origin
-group by Origin, Year, Month;
+inner join usairlineflights.airports on iata = Origin
+group by Origin, Year, Month
+order by City, Year, Month;
 
+#LEFT JOIN
+
+select City, Year, Month, 
+	avg(ArrDelay) as AverageArrivalDelay 
+from usairlineflights.Flights 
+left join usairlineflights.airports on iata = Origin
+group by Origin, Year, Month
+order by City, Year, Month;
 
 ## 5. Compañías con más vuelos cancelados. Ordenadas la de mayor vuelos cancelados primero
 
