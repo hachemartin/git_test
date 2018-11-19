@@ -3,7 +3,7 @@
 select count(*) from usairlineflights.Flights;
 
 
-## 2.1 Retraso medio de salida de aeropuertos de origen
+## 2. Retraso medio de salida de aeropuertos de origen
 
 select usairlineflights.Flights.Origin,
 	avg(Flights.DepDelay) as delay_average,
@@ -12,15 +12,10 @@ from Flights
 group by Origin;
 
 
-## 2.2 Retraso medio de llegada de aeropuertos de origen
-
-select Origin, Year, Month, 
-	avg(ArrDelay) as AverageArrivalDelay 
-from Flights 
-group by Origin, Year, Month;
 
 ## 3. Retraso medio de llegada de vuelos por Meses y según Origen.
 #Con orden Year, Month 
+#CORREGIR: "3 sigue faltando el los 3 campos en el order by."
 
 select Origin, Year, Month, DayOfMonth, avg(ArrDelay) 
 from usairlineflights.Flights 
@@ -30,6 +25,7 @@ order by Origin;
 
 ## 4. Retraso medio de llegada de vuelos por Meses y según Origen.
 #Pero sustituyendo el código del aeropuerto por la ciudad.
+#CORREGIR: "4 Podrías mejorar el resultado escogiendo una JOIN más idonea en vez de INNER :guiño: Sigo sin ver el order by"
 
 select City, Year, Month, 
 	avg(ArrDelay) as AverageArrivalDelay 
@@ -49,6 +45,7 @@ order by Flights.Cancelled asc;
 
 
 ## 6. El ID de los aviones que más distancia han recorrido haciendo vuelos
+#CORREGIR: "6 Deberías comprobar que TailNum no es “NA”, el cual indica que no tenemos ese dato."
 
 select TailNum, sum(Distance) as Total
 from usairlineflights.Flights
