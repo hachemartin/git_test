@@ -118,3 +118,10 @@
 
 <br>
 
+### **6 - Javascript**
+
+  - Trainning:
+  1. [Hello World](training/js)
+  2. [Display possibilities](https://www.w3schools.com/js/js_output.asp)
+  3. [Variables y comentarios](training/js)
+  4. 
