@@ -20,7 +20,7 @@ group by Origin;
 select Origin, Year, Month, DayOfMonth, avg(ArrDelay) 
 from usairlineflights.Flights 
 group by Origin, Year, Month, DayOfMonth
-order by Origin;
+order by Origin, Year, Month;
 
 
 ## 4. Retraso medio de llegada de vuelos por Meses y según Origen.
