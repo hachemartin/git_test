@@ -18,18 +18,19 @@ if(a===b){
     console.log("es falso")
 }
 
+*/
 //otro ejercicio
 
 function suma(x, y) {
-    document.writeIn("x = " + x);
-    document.writeIn("y = " + y);
+    document.write("x = " + x);
+    document.write("y = " + y);
 
     return x+y;
 }
 
 suma(1);
 
-*/
+/*
 
 var x = 1;
 if (x == 1) {
@@ -37,10 +38,13 @@ if (x == 1) {
         return x*2;
     }
 }
-else{function demo1(x){
+else{
+    function demo1(x){
     return x*10;
     }
 }
 
 x = demo1(3);
-document.writeIn(x);
+document.write(x);
+
+*/
