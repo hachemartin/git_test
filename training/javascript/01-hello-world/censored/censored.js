@@ -4,17 +4,17 @@
 // Ejemplo: https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 
 var miTitulo = document.querySelector('h1');
-miTitulo.innerHTML = "h1 Censured!";
+miTitulo.innerHTML = "h1 Censored!";
 
 // Y creamos otra para P
 
 var miParrafo = document.querySelector('p');
-miParrafo.innerHTML = "p Censured!";
+miParrafo.innerHTML = "p Censored!";
 
 // Y creamos otra para LI
 
 var miLista = document.querySelector('li','li');
-miLista.innerHTML = "li Censured!";
+miLista.innerHTML = "li Censored!";
 // Observamos que sólo modifica el primer LI
 
 var miImage = document.querySelector('img');
