@@ -46,3 +46,19 @@ console.log(parseInt(number1+number_decimal));
 // si queremos conservar los decimales
 console.log(parseFloat(number1+number_decimal));
 // expected output: 10.9
+
+// tipos de datos TYPEOF
+console.log(typeof number1)
+// expected output: number
+console.log(typeof number2)
+// expected output: number
+console.log(typeof number_decimal)
+// expected output: number
+console.log(typeof operation)
+// expected output: number
+console.log(typeof whole_number)
+// expected output: number
+console.log(typeof string_text)
+// expected output: string
+console.log(typeof true_or_false)
+// expected output: boolean
