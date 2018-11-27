@@ -20,9 +20,24 @@ console.log(numero1, numero2);
 
 if(numero1 > numero2){
 	console.log(numero1+" es mayor que "+numero2);
+}else if(numero1 == numero2){
+		console.log("Son iguales");
+}else{
+		console.log(numero2+" es mayor que "+numero1);
+}
+
+/*
+
+// se puede conseguir el mismo resultado de diferente forma:
+-if, else if, else
+-if, dentro otro if, else
+
+if(numero1 > numero2){
+	console.log(numero1+" es mayor que "+numero2);
 	if(numero1 == numero2){
 		console.log("Son iguales");
 	}
 }else{
 		console.log(numero2+" es mayor que "+numero1);
 	}
+*/
