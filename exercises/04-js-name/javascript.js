@@ -11,8 +11,10 @@ vowel = ["A", "E", "I", "O", "U"];
 
 var myMap = new Map();
 
-//for
 
+// CORRECCIÓN: el ejercicio 2 (de las vocales)  deberías hacer una función que sea la que compruebe el tipo de caracter.
+//for
+function nameSurname(){
 for (var i = 0; i < myName.length; i++) {
 
     if (vowel.indexOf(myName[i]) != -1) {
@@ -22,8 +24,11 @@ for (var i = 0; i < myName.length; i++) {
     } else {
         console.log(myName[i]+" is consonant");
     }
+}
 
+// CORRECCIÓN: 3 (maps) lo mismo, deberías extraerlo en una función lo que es la comprobación.
 //map
+function mapNameSurname(){
 
     if (myMap.has(myName[i]) == true) {
         var valor = myMap.get(myName[i]);
@@ -33,8 +38,11 @@ for (var i = 0; i < myName.length; i++) {
     }
 } 
 
-console.log(myName);
-console.log(myMap);
+}
+
+nameSurname();
+//console.log(myName);
+//console.log(myMap);
 
 
 //myFullName
