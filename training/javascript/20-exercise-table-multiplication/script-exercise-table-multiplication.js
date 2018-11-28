@@ -9,7 +9,8 @@ prompt que nos pida número
 // declaramos variables que pidan números, que sean enteros
 var numero = parseInt(prompt("Introduce un número",1));
 
-
+// creamos un encabezado
+document.write("<h1>Tabla del "+numero+"</h1><br/>");
 // bucle for
 for(var i = 0; i <= 10; i++){
 	document.write(i+" x "+numero+" = "+(i*numero)+"<br/>");
