@@ -77,6 +77,30 @@
 <a name="#methodologies"></a>
 ## METODOLOGÍAS
 
+<br>
+
+<a name="#methodologies--slack"></a>
+### **1 - Slack**
+
+  Blabla bla Slack
+  -Formatos: https://get.slack.help/hc/es/articles/202288908-C%C3%B3mo-dar-formato-a-tus-mensajes
+  - Gifs (Giphy): https://get.slack.help/hc/es/articles/204714258-C%C3%B3mo-usar-Giphy-en-Slack
+<br>
+<br>
+
+<a name="#methodologies--github"></a>
+### **2 - GitHub**
+
+  Blabla bla Github
+
+  -Readme.md (repositorios)
+  -Wikipedia Markdown: https://es.wikipedia.org/wiki/Markdown
+  -GitHub Desktop
+
+
+<br>
+<br>
+
 <a name="#methodologies--mastermind"></a>
 ### **3 - Mastermind group**
 
@@ -117,11 +141,47 @@
   **[⬆ back to top](#tabla-de-contenidos)**
 
 <br>
+<br>
+
+<a name="#ide"></a>
+## IDE
+
+<br>
+
+<a name="#ide--vsc"></a>
+### **1 - Visual Studio Code**
+
+  Blabla bla Visual Studio Code
+
+Extensiones:
+-GitHub Pull Request
+-Live Server
+-Markdown All in One
+-Babel ES6/ES7
+-Bootstrap 4, Font awesome 4...
+-Color Highlight
+-ESLint
+-file-icons
+-Quokka
+-Vetur
+
+<br>
+<br>
 
 ### **6 - Javascript**
 
-  - Trainning:
-  1. [Hello World](training/js)
-  2. [Display possibilities](https://www.w3schools.com/js/js_output.asp)
-  3. [Variables y comentarios](training/js)
-  4. 
+  - Temario
+  [1. Introducción](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Introducci%C3%B3n)
+  [2. The web console](https://developer.mozilla.org/en-US/docs/Tools/Web_Console)
+  [3. Display possibilities](https://www.w3schools.com/js/js_output.asp)
+  []
+  [4. Expresiones y operadores](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores)
+  [5. Palabras reservadas ECMAScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Palabras_Reservadas)
+  [6. Malas prácticas](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Caracter%C3%ADsticas_Desaprobadas)
+  [7. Alertas y ventanas de ingreso]
+
+    - Trainning:
+  [1. Hello World](training/javascript/01-hello-world)
+  [2. Variables y comentarios](training/javascript/02-variables)
+  [3. Let](training/javascript/03-let)
+  
