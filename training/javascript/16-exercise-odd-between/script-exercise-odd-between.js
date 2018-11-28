@@ -12,7 +12,7 @@ var numero1 = parseInt(prompt("Introduce el primer número",0));
 var numero2 = parseInt(prompt("Introduce el segundo número",0));
 
 // y pedimos que lo muestre en pantalla, y concatenamos un <br>
-document.write("<h1> de "+numero1+" a "+numero2+" están estos números:</h1>");
+document.write("<h1> de "+numero1+" a "+numero2+" están estos números impares:</h1>");
 
 // while, mientras numero1 sea menor que numero2
 // hacemos incremento (numero1++), if si dividido entre 2 es != 0
