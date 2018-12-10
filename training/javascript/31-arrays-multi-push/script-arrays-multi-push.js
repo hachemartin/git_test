@@ -17,10 +17,12 @@ console.log(cine[1][3]);
 // para añadir un elemento al array de 'films'
 var element = prompt("Instroduce una película");
 // hasta que escribamos 'THE END', nos seguirá pidiendo introducir película
-while(element != "THE END"){
+do{
     element = prompt("Introduce otra película");
+    // seguirá instroduciendo datos 
     films.push(element);
-}
+    
+}while(element != "THE END");
 
 // imprimimos en consola 'films' con las añadidas manualmente
 console.log(films);
