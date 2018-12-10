@@ -26,7 +26,7 @@ document.write("<h1>Lenguajes de programación</h1>");
 document.write("<ul>");
 // for hace un recorrido hasta que 'i' sea menor que el contenido de la array
 for(var i = 0; i < languages.length; i++){
-	// estoy imprimiendo en lista el contenido
+	// estoy imprimiendo en el HTML la lista el contenido
 	document.write("<li>"+languages[i]+"</li>");
 
 }
