@@ -24,5 +24,8 @@ do{
     
 }while(element != "THE END");
 
+// el 'pop' elimina el último elemento de una array
+films.pop();
+
 // imprimimos en consola 'films' con las añadidas manualmente
 console.log(films);
