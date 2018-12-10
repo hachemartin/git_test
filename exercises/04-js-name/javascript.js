@@ -26,21 +26,25 @@ FASE 2
 // CORRECCIÓN: el ejercicio 2 (de las vocales)  deberías hacer una función que sea la que compruebe el tipo de caracter.
 
 // creamos función con variable 'x' para poder aplicar función a otras arrays
-function scanVowel(x){
+//function scanVowel(x){
 // sintaxis for (variable = posiciónInicio; condición; incremento)
-for (var i = 0; i < x.length; i++) {
+for (var i = 0; i < myName.length; i++) {
+    scanIf(myName[i]);
+}
+// creamos función scanIf
+function scanIf(letter){
 // si es 'vocal' (si devuelve valor -1) imprime en consola 'vowel'
-    if (vowel.indexOf(x[i]) != -1) {
-        console.log(x[i]+" is vowel");
+    if (vowel.indexOf(letter) != -1) {
+        console.log(letter+" is vowel");
 // si el tipo de dato es igual a numero, imprime 'number'
-    } else if (typeof x[i] === 'number') {
-        console.log(x[i]+" is number");
+    } else if (typeof letter === 'number') {
+        console.log(letter+" is number");
 // si ninguna se cumple, imprime 'consonante'
     } else {
-        console.log(x[i]+" is consonant");
+        console.log(letter+" is consonant");
     }
 }
-}
+
 /*
 FASE 3
 -Almacena tanto letras del array como número de veces que aparece
@@ -49,24 +53,29 @@ FASE 3
 
 // creamos una función con variable 'y' para poder aplicar función a otras arrays
 // map crea un mapa de la array guardando el valor en cada iteración
-function scanMap(y){
+
 // bucle for para rastrear la array
-    for (var c = 0; c < y.length; c++) {
+    for (var c = 0; c < myName.length; c++) {
+        scanMap(myName);
+}
+// creamos función scanMap
+function scanMap(myName){
 // .has(y[c]) para ver los elementos de la array 
-if (myMap.has(y[c]) == true) {
-    var value = myMap.get(y[c]);
-    myMap.set(y[c], value + 1);
+if (myMap.has(myName[c]) == true) {
+    var value = myMap.get(myName[c]);
+    myMap.set(myName[c], value + 1);
     console.log(myMap);
 } else {
-    myMap.set(y[c], 1);
-}
+    myMap.set(myName[c], 1);
 }
 }
 
+
 // ejecutamos la función 'scanVowel'
-scanVowel(myName);
+//scanIf(myName);
+//console.log(myName);
 // ejecutamos la función 'scanMap'
-scanMap(myName);
+//scanMap(myName);
 
 /*
 FASE 4
