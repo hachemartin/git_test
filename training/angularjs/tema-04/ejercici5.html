@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html ng-app="app">
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.19/angular.min.js"></script>
+    <script src="https://code.angularjs.org/1.2.19/i18n/angular-locale_es-es.js"></script>
+    <script src="ejercici5.js"></script>
+  </head>
+  <body ng-controller="PruebaController">
+
+    <form name="miFormulario" novalidate >
+      Nombre:<input type="text" ng-model="model.nombre" name="nombre" ng-maxlength="50" ng-minlength="3" ng-required="requeridoNombre" ng-pattern="patternNombre" >
+      <br>
+      Correo eletronico:<input type="email" ng-model="model.correo" name="correo" >
+      <br>
+      Edad:<input type="number" ng-model="model.edad" name="edad" min="18" max="99" >
+      <br>
+      Sitio web:<input type="url" ng-model="model.sitioweb" name="sitioweb"  >
+    </form>
+    <br>
+    miFormulario.nombre.$error.pattern:  {{miFormulario.nombre.$error.pattern}}      
+    <br>
+    miFormulario.nombre.$error.required:  {{miFormulario.nombre.$error.required}}      
+    <br>
+    miFormulario.nombre.$error.minlength:  {{miFormulario.nombre.$error.minlength}}     
+    <br>
+    miFormulario.nombre.$error.maxlength:  {{miFormulario.nombre.$error.maxlength}}
+    <br>
+    miFormulario.correo.$error.email:  {{miFormulario.correo.$error.email}} 
+    <br>
+    miFormulario.edad.$error.number:  {{miFormulario.edad.$error.number}}
+    <br>
+    miFormulario.edad.$error.min:  {{miFormulario.edad.$error.min}}
+    <br>
+    miFormulario.edad.$error.max:  {{miFormulario.edad.$error.max}}    
+    <br>
+    miFormulario.sitioweb.$error.url:  {{miFormulario.sitioweb.$error.url}}     
+    
+  </body>
+  
+</html>

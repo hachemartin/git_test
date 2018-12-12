@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html ng-app="app">
+  <head>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.19/angular.min.js"></script>
+    <script src="http://code.angularjs.org/1.2.19/i18n/angular-locale_es-es.js"></script>
+    <script src="script.js"></script>
+  </head>
+  <body ng-controller="PruebaController">
+
+     <form name="miFormulario" >
+       Nombre:<input type="text" ng-model="model.nombre" name="nombre" required >
+       <br>
+       Correo eletronico:<input type="text" ng-model="model.email" name="email" required>
+     </form>
+
+    <h2>Formulario</h2>
+    miFormulario.$pristine:  {{miFormulario.$pristine}}
+    <br>
+    miFormulario.$dirty:  {{miFormulario.$dirty}}
+    <br>
+    miFormulario.$valid:  {{miFormulario.$valid}}
+    <br>
+    miFormulario.$invalid:  {{miFormulario.$invalid}}
+    
+    
+    <h2>Campo Nombre</h2>
+    miFormulario.nombre.$pristine:  {{miFormulario.nombre.$pristine}}
+    <br>
+    miFormulario.nombre.$dirty:  {{miFormulario.nombre.$dirty}}
+    <br>
+    miFormulario.nombre.$valid:  {{miFormulario.nombre.$valid}}
+    <br>
+    miFormulario.nombre.$invalid:  {{miFormulario.nombre.$invalid}}
+    
+    
+    <h2>Campo email</h2>
+    miFormulario.email.$pristine:  {{miFormulario.email.$pristine}}
+    <br>
+    miFormulario.email.$dirty:  {{miFormulario.email.$dirty}}
+    <br>
+    miFormulario.email.$valid:  {{miFormulario.email.$valid}}
+    <br>
+    miFormulario.email.$invalid:  {{miFormulario.email.$invalid}}
+  </body>
+</html>

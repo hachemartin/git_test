@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es" ng-app="Soci">
+<head>
+   <meta charset="UTF-8">
+   <title>Exemple de AngularJS</title>
+   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0/angular.min.js"></script>
+   <script src="ejercici1.js"></script>
+</head>
+<body>
+   <h1>Hola AngularJS desde @cibernarium</h1>
+   <div ng-init="miColeccion = ['Teo va a la escuela','La gallina Caponata','Paf el dragon magico'];">
+	   <p ng-repeat="elemento in miColeccion" ng-init="paso=$index;">
+			Elemento con id {{paso}}: <span>{{elemento}}</span>
+		</p>
+	</div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" ng-app>
+<head>
+<meta charset="UTF-8">
+<title>Exemple de AngularJS</title>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.2/angular.min.js"></script>
+</head>
+<body>
+
+<!-- Aqui va el contingut de la pàgina -->
+<!-- Una expresió {{nombre}} a on es mostrara el valor que s'hagi escrit en el camp texte. En aquest cas tenim un binding simple, d'un únic sentit. -->
+<h1>El meu nom és {{nombre}}</h1>
+
+<form>
+<!-- Un camp de texte amb ng-model="nombre". En aquest camp tenim un "doble binding". -->
+¿Cómo te llamas? <input type="text" ng-model="nombre">
+
+<!-- Finalment tenim un botó que no te bindig algun. Simplement, quan el clikis, estás executant una expresió (amb ng-click) per cambiar el scope amb la seva variable "nombre". -->
+<input type="button" value="hola" ng-click="nombre='hola'" />
+</form>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!doctype html>
+<html ng-app="todoApp">
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.2/angular.min.js"></script>
+    <script src="ejercici8.js"></script>
+    <link rel="stylesheet" href="ejercici8.css">
+  </head>
+  <body>
+    <div class="spicy">
+	  <div ng-controller="MainController">
+		<p>Bon {{timeOfDay}}, {{name}}!</p>
+
+		<div ng-controller="ChildController">
+		  <p>Bon {{timeOfDay}}, {{name}}!</p>
+
+		  <div ng-controller="GrandChildController">
+			<p>Bon {{timeOfDay}}, {{name}}!</p>
+		  </div>
+		</div>
+	  </div>
+	</div>
+  </body>
+</html>
