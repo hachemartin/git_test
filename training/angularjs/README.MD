@@ -1,5 +1,26 @@
 AngularJS
+
+Profesor: Oriol Tinoco Marco - Chief Technology Officer
 otinoco@digiocio.com
+
+## Tabla de Contenidos
+
+[**Tema 1 - XXXX**](#tema1)
+[**Tema 2 - Binding los datos**](#tema2)
+[**Tema 3 - Módulos**](#tema3)
+[**Tema 4 - Expresiones**](#tema4)
+[**Tema 5 - Directivas**](#tema5)
+[**Tema 6 - Múltiples vistas y routing**](#tema6)
+[**Tema 7 - Injección de dependencias**](#tema7)
+[**Tema 8 - Servicios**](#tema8)
+[**Tema 9 - XXXX**](#tema9)
+[**Tema 10 - XXXX**](#tema10)
+
+
+
+<br> 
+
+## Tema 1 - XXXX
 
 $scope
 https://docs.angularjs.org/guide/scope
@@ -20,6 +41,9 @@ ng-model - valor de este campo de formulario
 Ejercicios 1 y 2
 -src y formulario con nombre
 
+
+## Tema 2 - Binding de datos
+
 Binding de datos - (enlace)
 -enlace entre elementos
 -enlazar la informació que tenemos en el 'Scope'.
@@ -36,6 +60,10 @@ Tema2, ejercicio 1 y 2
 ng-controller - directiva
 $scope - es el modelo de datos. Siempre lo recuperaremos, forma de atributo.
 
+
+<br>
+
+## Tema 3 - Módulos
 
 Módulos - angular.module("soci",[]);
 
