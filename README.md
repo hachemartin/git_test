@@ -55,6 +55,7 @@
   * [**5 - Sass**](#frontend--sass)
   * [**6 - Javascript**](#frontend--javascript)
   * [**7 - Typescript**] (#frontend--typescript)
+  * [**7 - jQuery**] (#frontend--jquery)
   * [**7 - Angular**](#frontend--angular)
 <br>
 
