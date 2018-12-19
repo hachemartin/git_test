@@ -100,7 +100,7 @@ Formularios
 -hay que protegerlos bien
 -hay que filtrar toda la información
 "toda la información que nos llega de los formularios está contaminada hasta que la depuremos con alguna plantilla"
-
+-https://norfipc.com/inf/como-proteger-formularios-web-evitar-inyeccion-codigo-sql.php
 
 Nicedit
 http://nicedit.com/
