@@ -53,15 +53,18 @@
   * [**4 - Bootstrap**](#frontend--bootstrap)
   * [**5 - Sass**](#frontend--sass)
   * [**6 - Javascript**](#frontend--javascript)
+  * [**7 - Typescript**] (#frontend--typescript)
   * [**7 - Angular**](#frontend--angular)
 <br>
 
-[**Conferencias y charlas**](#confe0)
+[**TGIF - Conferencias y charlas**](#confe0)
   * [**Team building**](#confe1) - Construcción de equipo
   * [**Full stack**](#confe2) - Full stack developer
   * [**Aleum Yang**](#confe3) - Women N Talent
   * [**Irina Nanu**](#confe4) - UX/UI designer
-  * [**Marketplace**](#confe5) - Encuentros entre empresa y desarrollador
+  * [**Margarita Martínez**](#confe5) - RRHH IT
+  * [**Marketplace**](#confe6) - Encuentros entre empresa y desarrollador
+  * 
 <br>
 
 [**Ejercicios**](exercises/)
