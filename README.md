@@ -38,7 +38,8 @@
 [**Temario previo**](#preview)
   * [**1 - Virtual box**](#preview--virtualbox)
   * [**2 - Bases de datos relacionales**](#preview--mysql)
-  * [**2 - MySQL Workbench**](#preview--mysqlworkbench)
+  * [**3 - MySQL Workbench**](#preview--mysqlworkbench)
+  * [**4 - Xampp, phpMyAdmin**](#preview--xampp)
 <br>
  
  [**IDE: Integrated development environment**](#ide)
@@ -58,8 +59,8 @@
 <br>
 
 [**TGIF - Conferencias y charlas**](#confe0)
-  * [**Team building**](#confe1) - Construcción de equipo
-  * [**Full stack**](#confe2) - Full stack developer
+  * [**Carlos Santín**](#confe1) - Team building
+  * [**Adrià Muixí**](#confe2) - Full stack developer
   * [**Aleum Yang**](#confe3) - Women N Talent
   * [**Irina Nanu**](#confe4) - UX/UI designer
   * [**Margarita Martínez**](#confe5) - RRHH IT
